@@ -1,0 +1,6 @@
+sudo npm install -g typescript
+
+sudo npm install -g angular/cli
+
+verificar se esta tudo certo
+ng -v 
